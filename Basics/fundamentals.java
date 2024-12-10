@@ -13,7 +13,7 @@ public class fundamentals {
         //Inputs
         // scanner class is used to take input and system.in means taking input from keyboard
         Scanner input = new Scanner(System.in);
-        //nextInt means taking integer as input and only next means taking string as input
+        //nextInt means taking integer as input
 //       System.out.println(input.nextInt());
         System.out.print("Enter your roll no- ");
         int rollno = input.nextInt();
